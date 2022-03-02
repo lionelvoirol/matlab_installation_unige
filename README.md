@@ -3,6 +3,11 @@
 ## Introduction:
 The procedure detailled to install Matlab with a UNIGE licence misses some details which lead to a cumbersome installation. This repo provides a step-by-step installation procedure.
 
+## Notes
+- We assume the user has the ability to request a Matlab licence at the University of Geneva.
+- We assume the user has a Ubuntu Linux 20.04 installation.
+- We assume the user aims to install Matlab 2021b.
+
 ## Downloading the `.iso` file, the licence number, the `installer_input_unige.txt` and the `matlablm_unige.dat` files:
 - Download the `.iso` file [here](https://plone.unige.ch/distic/pub/logiciels/matlab/comment-installer-matlab-sur-linux).
 
