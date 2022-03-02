@@ -95,7 +95,7 @@ matlab
 
 ## Useful commands:
 - `xhost +SI:localuser:root` enables modification of the folder
-- `rsync -av old_folder new_folder`
+- `rsync -av old_folder new_folder` provides fast incremental file transfer 
 
 
 
