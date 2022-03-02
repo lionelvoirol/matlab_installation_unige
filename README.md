@@ -16,7 +16,8 @@ The detailed procedure for installing Matlab with a UNIGE license lacks some det
 </p>
 
 
-- Request a licence number and download the `installer_input_unige.txt` and the `matlablm_unige.dat` [here](https://logiciels.unige.ch/). :warning: **Make sure to save the licence key provided at this step!**
+- Request a licence number and download the `installer_input_unige.txt` and the `matlablm_unige.dat` [here](https://logiciels.unige.ch/). 
+:warning: **Make sure to save the licence key provided at this step!**
 
 <p align="center">
 <img src="static/licence_and_install_files.png" align="center" width="450px"/>
