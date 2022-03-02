@@ -29,7 +29,8 @@ The detailed procedure for installing Matlab with a UNIGE license (found [here](
 - Mount the `.iso` file.
 - Copy the content to a new file using `rsync`. 
 
-## Modify the `installer_input_unige.txt`:
+###
+Modify the `installer_input_unige.txt`:
 - Change the `destinationFolder` from `destinationFolder=/usr/local/R2021a` to
 ```bash
 destinationFolder=/usr/local/MATLAB/R2021b
