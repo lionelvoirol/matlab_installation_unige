@@ -6,11 +6,17 @@ The procedure detailled to install Matlab with a UNIGE licence misses some detai
 ## Downloading the `.iso` file, the licence number, the `installer_input_unige.txt` and the `matlablm_unige.dat` files:
 - Download the `.iso` file [here](https://plone.unige.ch/distic/pub/logiciels/matlab/comment-installer-matlab-sur-linux).
 
-![]("matlab_iso.png")
+<p align="center">
+<img src="static/matlab_iso.png" align="center" width="450px"/>
+</p>
+
 
 - Request a licence number and download the `installer_input_unige.txt` and the `matlablm_unige.dat` [here](https://logiciels.unige.ch/).
 
-![]("licence_and_install_files.png")
+<p align="center">
+<img src="static/licence_and_install_files.png" align="center" width="450px"/>
+</p>
+
 
 ## Mount the `.iso` file and copy paste content to another directory:
 - Mount the `.iso` file.
