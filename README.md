@@ -52,6 +52,33 @@ licensePath=./matlablm_unige.dat
 ```bash
  sudo ./install -inputfile ./installer_input_unige.txt
 ```
+Check that the file was indeed well installed with:
+```bash
+vim /tmp/mathworks_R2021b.log 
+```
+
+You should see something like:
+
+```bash
+(Mar 02, 2022 12:16:29) 89%
+(Mar 02, 2022 12:16:30) 90%
+(Mar 02, 2022 12:16:31) 91%
+(Mar 02, 2022 12:16:32) 92%
+(Mar 02, 2022 12:16:33) 93%
+(Mar 02, 2022 12:16:34) 94%
+(Mar 02, 2022 12:16:35) 95%
+(Mar 02, 2022 12:16:37) 97%
+(Mar 02, 2022 12:16:37) 98%
+(Mar 02, 2022 12:16:38) 99%
+(Mar 02, 2022 12:16:39) 100%
+(Mar 02, 2022 12:16:39) Generating Java class path for /usr/local/MATLAB/R2021b
+(Mar 02, 2022 12:16:39) Successfully generated Java class path for /usr/local/MATLAB/R2021b
+(Mar 02, 2022 12:16:39) Generating pathdef.m for /usr/local/MATLAB/R2021b
+(Mar 02, 2022 12:16:39) Successfully generated pathdef.m for /usr/local/MATLAB/R2021b
+(Mar 02, 2022 12:16:39) Exiting with status 0
+(Mar 02, 2022 12:16:39) End - Successful
+
+```
 
 ## Create an alias to launch Matlab:
 in your `.bashrc` or `.zshrc`, add the following alias:
