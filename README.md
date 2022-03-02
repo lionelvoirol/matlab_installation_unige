@@ -1,7 +1,7 @@
 # Matlab installation with a UNIGE account
 
 ## Introduction:
-The procedure detailled to install Matlab with a UNIGE licence misses some details which lead to a cumbersome installation. This repo provides a step-by-step installation procedure.
+The detailed procedure for installing Matlab with a UNIGE license lacks some details that lead to a laborious installation. This repo provides a step-by-step installation procedure.
 
 ## Notes
 - We assume the user has the ability to request a Matlab licence at the University of Geneva.
@@ -16,7 +16,7 @@ The procedure detailled to install Matlab with a UNIGE licence misses some detai
 </p>
 
 
-- Request a licence number and download the `installer_input_unige.txt` and the `matlablm_unige.dat` [here](https://logiciels.unige.ch/).
+- Request a licence number and download the `installer_input_unige.txt` and the `matlablm_unige.dat` [here](https://logiciels.unige.ch/). :warning: **Make sure to save the licence key provided at this step!**
 
 <p align="center">
 <img src="static/licence_and_install_files.png" align="center" width="450px"/>
