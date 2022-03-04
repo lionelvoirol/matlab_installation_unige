@@ -94,7 +94,6 @@ Launch Matlab with:
 matlab
 ```
 
-<<<<<<< HEAD
 You should see something like:
 
 <p align="center">
