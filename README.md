@@ -93,6 +93,13 @@ Launch Matlab with:
 matlab
 ```
 
+You should see something like:
+
+<p align="center">
+<img src="static/matlab_launch_1.png" align="center" width="150px"/>
+</p>
+
+
 ## Useful commands:
 - `xhost +SI:localuser:root` enables modification of the folder
 - `rsync -av old_folder new_folder` provides fast incremental file transfer 
