@@ -103,7 +103,7 @@ You should see something like:
 and then, you should have access to the Matlab editor:
 
 <p align="center">
-<img src="static/matlab3.png" align="center" width="250px"/>
+<img src="static/matlab3.png" align="center" width="350px"/>
 </p>
 
 ## A note on the VPN
