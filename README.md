@@ -100,6 +100,14 @@ You should see something like:
 <img src="static/matlab_launch_1.png" align="center" width="150px"/>
 </p>
 
+and then, you should have access to the Matlab editor:
+
+<p align="center">
+<img src="static/matlab3.png" align="center" width="150px"/>
+</p>
+
+## A note on the VPN
+Outside of the Unige network, the user should use use a VPN in order to use Matlab. The procedure is explained [here](https://plone.unige.ch/distic/pub/logiciels/forticlient/comment-installer-forticlient-linux) and is straighforward.
 
 ## Useful commands:
 - `xhost +SI:localuser:root` enables modification of the folder
