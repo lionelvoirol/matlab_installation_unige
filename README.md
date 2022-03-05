@@ -97,13 +97,13 @@ matlab
 You should see something like:
 
 <p align="center">
-<img src="static/matlab_launch_1.png" align="center" width="150px"/>
+<img src="static/matlab_launch_1.png" align="center" width="180px"/>
 </p>
 
 and then, you should have access to the Matlab editor:
 
 <p align="center">
-<img src="static/matlab3.png" align="center" width="150px"/>
+<img src="static/matlab3.png" align="center" width="250px"/>
 </p>
 
 ## A note on the VPN
